@@ -50,9 +50,8 @@ DBPassword=123456789
 # systemctl enable zabbix-server zabbix-agent apache2 
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Страница входа](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/1.1.jpg)`
-![Главная страница](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/1.2.jpg)`
+![Страница входа](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/1.1.jpg)
+![Главная страница](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/1.2.jpg)
 
 
 ---
@@ -80,11 +79,10 @@ Server=192.168.5.200
 # tail -f /var/log/zabbix/zabbix_agentd.log
 ```
 
-`При необходимости прикрепитe сюда скриншоты
-![Узлы](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.1.jpg)`
-![Лог агента](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.2.jpg)`
-![Данные 1](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.3.jpg)`
-![Данные 2](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.4.jpg)`
+![Узлы](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.1.jpg)
+![Лог агента](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.2.jpg)
+![Данные 1](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.3.jpg)
+![Данные 2](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/smon-02/2.4.jpg)
 
 
 ---
