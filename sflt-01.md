@@ -38,8 +38,6 @@
 1. [Скрипт](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/check_port.sh)
 2. [Конфиг](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/keepalived.conf)
 
-```
-```
 
 ![Скрин 1](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/2.1.jpg)
 ![Скрин 2](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/2.2.jpg)
