@@ -35,15 +35,10 @@
 ### Задание 2
 
 
-1. `Скрипт https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/check_port.sh`
-2. `Конфиг https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/keepalived.conf`
+1. [Скрипт](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/check_port.sh)
+2. [Конфиг](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/keepalived.conf)
 
 ```
-Поле для вставки кода...
-....
-....
-....
-....
 ```
 
 ![Скрин 1](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/2.1.jpg)
