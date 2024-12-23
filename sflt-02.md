@@ -24,7 +24,7 @@
 
 ### Задание 1
 
-1. `haproxy.cfg https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/haproxy_1.cfg`
+1. [haproxy.cfg](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/haproxy_1.cfg)
 
 ![Скрин 1](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-02/1.1.jpg)
 
@@ -35,7 +35,7 @@
 ### Задание 2
 
 
-1. `haproxy.cfg https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/haproxy_2.cfg`
+1. [haproxy.cfg](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-01/haproxy_2.cfg)
 
 
 ![Скрин 1](https://github.com/PL4NTEXZ/hw_sdn/blob/main/img/sflt-02/2.1.jpg)
